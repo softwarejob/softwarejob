@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Hi 👋, I'm Harry</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob)](https://github.com/ryo-ma/github-profile-trophy)
