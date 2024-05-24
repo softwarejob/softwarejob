@@ -154,3 +154,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=your-repo-name&theme=highcontrast&title_color=00ff00&text_color=00ff00&bg_color=000000" alt="ReadMe Card">
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=dracula)](https://github.com/softwarejob/Standard_library_string_class_test_program)
