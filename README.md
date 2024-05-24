@@ -158,3 +158,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=dracula)](https://github.com/softwarejob/Standard_library_string_class_test_program)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=dark&title_color=00ff00&text_color=00ff00&bg_color=000000&border_color=00ff00&border_radius=10)](https://github.com/softwarejob/Standard_library_string_class_test_program)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=graywhite&title_color=4d7399&text_color=4d7399&icon_color=4d7399&bg_color=ffffff&border_color=4d7399&border_radius=10)](https://github.com/softwarejob/Standard_library_string_class_test_program)
+
