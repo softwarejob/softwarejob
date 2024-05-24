@@ -62,3 +62,42 @@
   <img src="https://profile-counter.glitch.me/softwarejob/count.svg" />
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!;Welcome+to+my+profile!;I'm+a+passionate+developer!&center=true&size=30">
+  </a>
+</h1>
+
+<h1 align="center">Hi there, I'm Softwarejob 👋</h1>
+<h3 align="center">A passionate developer from [Your Country]</h3>
+
+<p align="center">
+  <a href="https://twitter.com/softwarejob"><img src="https://img.shields.io/twitter/follow/softwarejob?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/softwarejob"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/softwarejob"><img src="https://img.shields.io/stackexchange/stackoverflow/r/softwarejob?style=social" alt="Stack Overflow"></a>
+</p>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/softwarejob/count.svg" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwarejob&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarejob&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=dark&date_format=j%20M%5B%20Y%5D)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwarejob&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" style="border-radius: 15px;">
+</div>
+
+<!-- GitHub Activity -->
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1234](https://github.com/softwarejob/repo/pull/1234) in [softwarejob/repo](https://github.com/softwarejob/repo)
+2. 🗣 Commented on [#1234](https://github.com/softwarejob/repo/issues/1234) in [softwarejob/repo](https://github.com/softwarejob/repo)
+3. 🎉 Merged PR [#1234](https://github.com/softwarejob/repo/pull/1234) in [softwarejob/repo](https://github.com/softwarejob/repo)
+<!--END_SECTION:activity-->
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=your-repo-name&theme=tokyonight)
