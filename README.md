@@ -2,10 +2,12 @@
 
 
 <!--Header-->
+<p align="right">
+<a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/fcd95f63-33bc-40c5-9915-784f2256ac18"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/fcd95f63-33bc-40c5-9915-784f2256ac18.svg" alt="wakatime"></a>  
+</p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!;Welcome+to+my+profile!&center=true&size=30&color=00ff00">
+    <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00ff00&size=22&center=true&lines=Hello,+World+🗺️;Welcome+to+my+GitHub+profile+⌮"></a>
   </a>
 </h1>
 
