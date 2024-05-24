@@ -167,3 +167,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&theme=darkhub&title=00ff00&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&theme=dracula&no-frame=true&row=1&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
