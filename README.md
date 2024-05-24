@@ -46,23 +46,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://badges.pufler.dev/visits/softwarejob/softwarejob?style=for-the-badge&color=blue" alt="Visitor Count">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoftwarejob&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-  <img src="https://profile-counter.glitch.me/softwarejob/count.svg" />
-</p>
-
-
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/softwarejob/softwarejob?style=for-the-badge&color=blue" alt="Visitor Count">
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoftwarejob&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-</p>
-
-
-<p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/softwarejob/count.svg" />
 </p>
 
