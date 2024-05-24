@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400" alt="softwarejob" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program)]https://github.com/softwarejob/Standard_library_string_class_test_program
