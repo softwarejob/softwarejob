@@ -37,3 +37,16 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwarejob&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" style="border-radius: 15px;">
 </div>
 
+
+
+
+
+
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/softwarejob/count.svg" />
+</p>
+
