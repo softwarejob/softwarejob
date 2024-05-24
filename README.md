@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en" alt="softwarejob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400" alt="softwarejob" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
