@@ -40,8 +40,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=ambient_gradient)](https://github.com/softwarejob/Standard_library_string_class_test_program)
-
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwarejob&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" style="border-radius: 15px;">
