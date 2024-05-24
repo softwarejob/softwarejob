@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!;Welcome+to+my+profile!;&center=true&size=30">
   </a>
 </h1>
+
 <h1 align="center">Hi 👋, I'm Harry</h1>
 
 
