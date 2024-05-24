@@ -5,8 +5,6 @@
 </h1>
 <h1 align="center">Hi 👋, I'm Harry</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - 🔭 I’m currently working on [Standard_library_string_class_test_](https://github.com/softwarejob/Standard_library_string_class_test_program.git)
 
@@ -31,6 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en" alt="softwarejob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400" alt="softwarejob" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=ambient_gradient)](https://github.com/softwarejob/Standard_library_string_class_test_program)
 
