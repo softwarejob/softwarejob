@@ -1,6 +1,8 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!;Welcome+to+my+profile!;&center=true&size=30">
+  </a>
+</h1>
 <h1 align="center">Hi 👋, I'm Harry</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
@@ -62,11 +64,7 @@
   <img src="https://profile-counter.glitch.me/softwarejob/count.svg" />
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+world!;Welcome+to+my+profile!;I'm+a+passionate+developer!&center=true&size=30">
-  </a>
-</h1>
+
 
 <h1 align="center">Hi there, I'm Softwarejob 👋</h1>
 <h3 align="center">A passionate developer from [Your Country]</h3>
