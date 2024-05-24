@@ -1,8 +1,5 @@
 <!--testing-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&theme=darkhub&row=1&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <!--Header-->
 
@@ -40,9 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400" alt="softwarejob" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=softwarejob&theme=darkhub&title=00ff00&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwarejob&repo=Standard_library_string_class_test_program&show_owner=true&theme=ambient_gradient)](https://github.com/softwarejob/Standard_library_string_class_test_program)
 
