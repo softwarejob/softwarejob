@@ -3,7 +3,9 @@
 <p align="right">
 <a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/fcd95f63-33bc-40c5-9915-784f2256ac18"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/fcd95f63-33bc-40c5-9915-784f2256ac18.svg" alt="wakatime"></a>  
 </p>
-
+<h1 align="center">
+    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=4000&pause=1000&color=00ff00&size=22&center=true&vCenter=true&width=650&lines=Hello%2C+World+🗺️;Welcome+to+my+GitHub+profile+⌮" alt="Typing SVG" />
+</h1>
 
 ## <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /> Hi, I'm Harry
 
