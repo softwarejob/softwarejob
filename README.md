@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/harry-lin-85b393191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry-lin-85b393191" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23536264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23536264" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bobleeswagger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobleeswagger" height="30" width="40" /></a>
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a4061476@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
