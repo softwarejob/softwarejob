@@ -41,16 +41,32 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarejob&layout=normal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&langs_count=15&card_width=500)
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarejob&layout=normal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&langs_count=15&card_width=500" />
+  
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@softwarejob&layout=normal&hide_border=true&langs_count=15&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=📊%20Coding%20Activity" />
+</div>
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@softwarejob&theme=ambient_gradient&cache_seconds=14400)
-
+![WakaTime Coding Activity](https://wakatime.com/share/@softwarejob/85ac730b-ea05-46f6-9bf6-5cd136297982.svg)
 <!-- WakaTime 原生圖表 -->
 ![WakaTime Language stats](https://wakatime.com/share/@softwarejob/dc548495-ed20-4abd-b847-ebeecb19e846.svg)
+![WakaTime Languages](https://wakatime.com/share/@softwarejob/650e7cbb-ea4d-47ff-b43e-40391f85258e.svg)
+![Daily Coding Stats](https://wakatime.com/share/@softwarejob/e3b0a691-46f6-48cd-890c-f48f53d1957c.svg)
+![Languages Coding Stats](https://wakatime.com/share/@softwarejob/09725050-1a0c-42b0-9db1-8e14f5d00d81.svg)![WakaTime Language stats](https://wakatime.com/share/@softwarejob/dc548495-ed20-4abd-b847-ebeecb19e846.svg)
+![WakaTime Languages](https://wakatime.com/share/@softwarejob/650e7cbb-ea4d-47ff-b43e-40391f85258e.svg)
+![Daily Coding Stats](https://wakatime.com/share/@softwarejob/e3b0a691-46f6-48cd-890c-f48f53d1957c.svg)
+![Languages Coding Stats](https://wakatime.com/share/@softwarejob/09725050-1a0c-42b0-9db1-8e14f5d00d81.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400)
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en">
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=softwarejob&theme=ambient_gradient&cache_seconds=14400">
+    </td>
+  </tr>
+</table>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=softwarejob&cache_seconds=14400)
 
@@ -74,7 +90,16 @@ Building full-stack web applications using:
   - Algorithm implementation
   - Data structures
 
-<h2 align="center">📈 Contribution Graph 📈</h2>
+<div>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=softwarejob&theme=github" />
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=softwarejob&theme=github" />
+</div>
+<br clear="both"/>
+
+<div>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=softwarejob&theme=github" />
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=softwarejob&theme=github&utcOffset=8" />
+</div>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwarejob&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" style="border-radius: 15px;">
 </div>
