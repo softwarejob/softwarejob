@@ -1,7 +1,9 @@
 <!--testing-->
 <!--Header-->
 <p align="right">
-<a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/fcd95f63-33bc-40c5-9915-784f2256ac18"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/fcd95f63-33bc-40c5-9915-784f2256ac18.svg" alt="wakatime"></a>  
+  [FE] <a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/72478e11-3d7e-4c92-a656-d18837c47539"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/72478e11-3d7e-4c92-a656-d18837c47539.svg" alt="Frontend wakatime"></a>
+  <br/>
+  [BE] <a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/c2770271-ed40-46fa-9caf-cc65c7f5275f"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/c2770271-ed40-46fa-9caf-cc65c7f5275f.svg" alt="Backend wakatime"></a>
 </p>
 <h1 align="center">
     <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=4000&pause=1000&color=00ff00&size=22&center=true&vCenter=true&width=650&lines=Hello%2C+World+🗺️;Welcome+to+my+GitHub+profile+⌮" alt="Typing SVG" />
