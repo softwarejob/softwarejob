@@ -41,9 +41,12 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&hide=javascript,html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarejob&layout=normal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&langs_count=15&card_width=500)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@softwarejob&theme=ambient_gradient&cache_seconds=14400)
+
+<!-- WakaTime 原生圖表 -->
+![WakaTime Language stats](https://wakatime.com/share/@softwarejob/dc548495-ed20-4abd-b847-ebeecb19e846.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwarejob&theme=ambient_gradient&cache_seconds=14400&show_icons=true&locale=en)
 
