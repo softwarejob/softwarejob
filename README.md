@@ -53,10 +53,9 @@
 ![WakaTime Language stats](https://wakatime.com/share/@softwarejob/dc548495-ed20-4abd-b847-ebeecb19e846.svg)
 ![WakaTime Languages](https://wakatime.com/share/@softwarejob/650e7cbb-ea4d-47ff-b43e-40391f85258e.svg)
 ![Daily Coding Stats](https://wakatime.com/share/@softwarejob/e3b0a691-46f6-48cd-890c-f48f53d1957c.svg)
-![Languages Coding Stats](https://wakatime.com/share/@softwarejob/09725050-1a0c-42b0-9db1-8e14f5d00d81.svg)![WakaTime Language stats](https://wakatime.com/share/@softwarejob/dc548495-ed20-4abd-b847-ebeecb19e846.svg)
-![WakaTime Languages](https://wakatime.com/share/@softwarejob/650e7cbb-ea4d-47ff-b43e-40391f85258e.svg)
-![Daily Coding Stats](https://wakatime.com/share/@softwarejob/e3b0a691-46f6-48cd-890c-f48f53d1957c.svg)
-![Languages Coding Stats](https://wakatime.com/share/@softwarejob/09725050-1a0c-42b0-9db1-8e14f5d00d81.svg)
+
+
+
 
 <table>
   <tr>
