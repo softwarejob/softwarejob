@@ -53,7 +53,7 @@
 ![WakaTime Language stats](https://wakatime.com/share/@softwarejob/dc548495-ed20-4abd-b847-ebeecb19e846.svg)
 ![WakaTime Languages](https://wakatime.com/share/@softwarejob/650e7cbb-ea4d-47ff-b43e-40391f85258e.svg)
 ![Daily Coding Stats](https://wakatime.com/share/@softwarejob/e3b0a691-46f6-48cd-890c-f48f53d1957c.svg)
-
+![Categories stats](https://wakatime.com/share/@softwarejob/ea7322f5-3603-4a5b-842a-88031eb8ea76.svg)
 
 
 
