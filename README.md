@@ -1,7 +1,7 @@
 <!--testing-->
 <!--Header-->
 <p align="right">
-  [FE] [![wakatime](https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/b8b1dcbd-d5a3-4257-b9cc-2a0dbbf3bb55.svg)](https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/b8b1dcbd-d5a3-4257-b9cc-2a0dbbf3bb55)
+  [FE] [<a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/b8b1dcbd-d5a3-4257-b9cc-2a0dbbf3bb55"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/b8b1dcbd-d5a3-4257-b9cc-2a0dbbf3bb55.svg" alt="wakatime"></a>
   <br/>
   [BE] <a href="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/c2770271-ed40-46fa-9caf-cc65c7f5275f"><img src="https://wakatime.com/badge/user/cd64c01f-cc55-41ce-a027-2f4d22c78ed5/project/c2770271-ed40-46fa-9caf-cc65c7f5275f.svg" alt="Backend wakatime"></a>
 </p>
